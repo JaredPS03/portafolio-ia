@@ -11,3 +11,5 @@ Red neuronal en PyTorch que separa dos clases en forma de círculos concéntrico
 ![Frontera de decisión](imagenes/frontera.png)
 
 [Ver el notebook completo](RedNeuronalClasCirculos.ipynb)
+
+![alt text](imagenes/image.png)

@@ -45,4 +45,4 @@ Red neuronal en PyTorch que separa dos clases en forma de círculos concéntrico
 - No sé si los suscriptores se midieron al publicar o después; si fue después, podría haber una fuga de datos pequeña.
 - Probar modelos más potentes (Random Forest, Gradient Boosting) y agregar información del título con procesamiento de lenguaje.
 
-[Ver el notebook completo](Proyecto1_YouTube_Viral.ipynb)
+[Ver el notebook completo](YoutubeDTA_Proyecto1)
